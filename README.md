@@ -7,6 +7,7 @@ ___
 
 * __Module 1:__ [Pipeline Fundamentals]()
   * The History of Azure Orchestration
+  * Synapse Analytics vs Data Factory
   * Integration Components
   * Common Activities
   * Execution Dependencies
