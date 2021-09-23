@@ -21,15 +21,16 @@ If that's not enough learning for you, a set of hands-on labs will also be made 
 ___
 
 ## Course Prerequisites
-![Intro Header Slide](https://mrpaulandrew.files.wordpress.com/2021/08/an-intro-to-azure-pipelines-slide-header.png){:style="float: right;margin-left: 15px;margin-bottom: 10px;"}
 
-If you've never used data integration pipelines before in either Azure Data Factory or Azure Synapse Analytics, please watch my publicly available 1 hour complete introduction session available via my blog here:
+If you've __never__ used Azure Data Integration Pipelines before in either Azure Data Factory or Azure Synapse Analytics, that's ok! However, please watch my 1 hour complete introduction session available via my blog and on YouTube, recorded as part of a recent community MeetUp. Link below:
 
 https://mrpaulandrew.com/2021/08/23/an-introduction-to-azure-data-integration-pipelines/
 
 ___
 
-## Full Agenda
+## Course Agenda
+
+The following offers an insight into the complete agenda and module breakdown for this course.
 
 * __Module 1:__ [Pipeline Fundamentals]()
   * The History of Azure Orchestration
